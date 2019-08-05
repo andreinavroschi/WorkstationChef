@@ -1,6 +1,7 @@
 package 'vim-enhanced'
 package 'nano'
 package 'emacs'
+package 'mlocate'
 
 package 'tree' do
   action :install
