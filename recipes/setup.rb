@@ -2,6 +2,7 @@ package 'vim-enhanced'
 package 'nano'
 package 'emacs'
 package 'mlocate'
+package 'dos2unix'
 
 package 'tree' do
   action :install
